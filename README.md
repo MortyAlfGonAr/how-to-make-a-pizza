@@ -1,13 +1,4 @@
 # how-to-make-a-pizza
-Pasos para hornear la Pizza
-1) abrir el horno
-2) meter la pizza
-3) prender el horno
-4) cerrar el horno
-5) esperar el tiempo correspondiente
-6) abrir el horno
-7) sacar la pizza
-
 ¿Como hacer la masa?
 
 Ingredientes
@@ -28,6 +19,7 @@ Pasos para hacer la masa
 8- Amasamos hasta ver la masa lisa
 9- Metemos en un bol y tapamos con un trapo 1 hora
 10- Partimos la masa en dos
+
 Pasos para armar una pizza hawaiana
 1- Estirar la masa para la pizza de acuerdo al tamaño deseado
 2- Cubrir la masa de pizza con una capa de salsa o pasta de tomate
@@ -36,3 +28,12 @@ Pasos para armar una pizza hawaiana
 5- Esparce el queso rayado de manera uniforme por toda la superficie de la masa
 6- Espolvorea un poco de oregano
 7- Meter al horno.
+
+Pasos para hornear la Pizza
+1) abrir el horno
+2) meter la pizza
+3) prender el horno
+4) cerrar el horno
+5) esperar el tiempo correspondiente
+6) abrir el horno
+7) sacar la pizza
