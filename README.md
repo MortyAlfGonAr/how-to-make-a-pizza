@@ -20,3 +20,11 @@ Pasos para hacer la masa
 8- Amasamos hasta ver la masa lisa
 9- Metemos en un bol y tapamos con un trapo 1 hora
 10- Partimos la masa en dos
+Pasos para armar una pizza hawaiana
+1- Estirar la masa para la pizza de acuerdo al tamaño deseado
+2- Cubrir la masa de pizza con una capa de salsa o pasta de tomate
+3- Colocar el jamon cubriendo toda la masa
+4- Agregar la piña en trocitos
+5- Esparce el queso rayado de manera uniforme por toda la superficie de la masa
+6- Espolvorea un poco de oregano
+7- Meter al horno.
